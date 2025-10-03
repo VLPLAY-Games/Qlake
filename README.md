@@ -2,6 +2,9 @@
 
 ## Link - https://vl-play.itch.io/qlake
 
+- [Read in Russian](README.ru.md)
+- [Read in Japanese](README.ja.md)
+
 ## Description:
 Qlake is a small indie first-person shooter in the Survival Horror genre, developed on the Unreal Engine 5. You have to communicate with zombies and their leader, which is the main goal of the game. The game requires you to complete several levels, each of which has a different set of tasks and dangers. You will be looking for weapons and ammunition that will help you prevent evil and survive. Qlake is a game that will stretch your nerves and force you to use all your survival skills. If you are a fan of games that combine horror and survival, then playing Qlake will be an additional way to spend your time.
 
